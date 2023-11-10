@@ -1,1 +1,1 @@
-{"title":"کاربرگرامی","message":"نسخه جدیدی از این برنامه در دسترس است لطفا ان را از طریق تلگرام با قابلیت بدون محدودیت دانلود کنید 😍❤️","dismissable":false,"dismissTxt":"رد","okTxt":"دانلود در تلگرام","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
+.
